@@ -157,6 +157,7 @@ body {
 }
 
 /* MOBİLE  */
+
 @media (max-width: 900px) {
   .quiz_box {
     width: 100%;
