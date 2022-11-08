@@ -123,7 +123,8 @@ body {
   text-align: center;
 }
 
-/* score box */
+/* Score Box */
+
 .score_box.active {
   opacity: 1;
   pointer-events: auto;
